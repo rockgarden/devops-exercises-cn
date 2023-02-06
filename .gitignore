@@ -94,3 +94,4 @@ venv.bak/
 
 #Jetbrain's ides.
 .idea
+.DS_Store
